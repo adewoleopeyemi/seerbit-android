@@ -26,7 +26,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.seerbit:seerbit-android:Tag'
+	        implementation 'com.github.seerbit:seerbit-android:1.0.7'
 	}
    
    
@@ -45,7 +45,7 @@ Step 2. Add the dependency
 	<dependency>
 	    <groupId>com.github.seerbit</groupId>
 	    <artifactId>seerbit-android</artifactId>
-	    <version>Tag</version>
+	    <version>1.0.7</version>
 	</dependency>
 ## API Documentation 
    https://doc.seerbit.com
